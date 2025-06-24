@@ -1,0 +1,8 @@
+{
+    "fuentes_activas": [
+        "eventbrite",
+        "google_events",
+        "microsoft_events",
+        "linkedin_monitor"
+    ]
+}

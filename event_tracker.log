@@ -1,0 +1,241 @@
+2025-06-09 14:50:27,257 - INFO - === Iniciando recolección de eventos ===
+2025-06-09 14:50:28,249 - INFO - [INFO] Eventos Eventbrite: 0
+2025-06-09 14:50:28,553 - INFO - [INFO] Eventos Google: 0
+2025-06-09 14:50:28,755 - INFO - [INFO] Eventos Microsoft: 0
+2025-06-09 14:50:29,072 - INFO - [INFO] Eventos GenAI Unconference: 1
+2025-06-09 14:50:29,072 - INFO - === Guardando eventos nuevos ===
+2025-06-09 14:50:29,072 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-09 14:50:29,073 - INFO - [INFO] Guardados 1 nuevos eventos.
+2025-06-09 14:50:29,073 - INFO - [INFO] 1 nuevos eventos agregados.
+2025-06-09 14:50:29,074 - INFO - [INFO] Enviando notificaciones...
+2025-06-09 17:33:36,662 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-09 17:33:37,764 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-09 17:33:37,914 - INFO - [INFO] google_events: 0 eventos.
+2025-06-09 17:33:38,025 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-09 17:33:38,224 - INFO - [INFO] finnovating_events: 0 eventos.
+2025-06-09 17:33:38,796 - INFO - [INFO] pycon_colombia: 0 eventos.
+2025-06-09 17:33:39,047 - INFO - [INFO] isaca: 0 eventos.
+2025-06-09 17:33:40,100 - INFO - [INFO] colombiatechweek: 0 eventos.
+2025-06-09 17:33:44,988 - INFO - [INFO] felaban: 0 eventos.
+2025-06-09 17:33:44,989 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-09 17:33:44,992 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-09 17:33:44,992 - INFO - [INFO] No hay eventos nuevos.
+2025-06-09 17:33:44,993 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-09 17:33:44,993 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-09 23:55:22,694 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-09 23:55:23,171 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-09 23:55:24,226 - INFO - [INFO] google_events: 0 eventos.
+2025-06-09 23:55:24,228 - INFO - [ERROR] No se pudo procesar fuente microsoft_events: No module named 'selenium'
+2025-06-09 23:55:24,711 - INFO - [INFO] finnovating_events: 0 eventos.
+2025-06-09 23:55:25,335 - INFO - [INFO] pycon_colombia: 0 eventos.
+2025-06-09 23:55:26,160 - INFO - [INFO] isaca: 0 eventos.
+2025-06-09 23:55:26,527 - INFO - [INFO] colombiatechweek: 0 eventos.
+2025-06-09 23:55:30,799 - INFO - [INFO] felaban: 0 eventos.
+2025-06-09 23:55:30,799 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-09 23:55:30,801 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-09 23:55:30,801 - INFO - [INFO] No hay eventos nuevos.
+2025-06-09 23:55:30,801 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-09 23:55:30,801 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-10 15:15:33,529 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-10 15:15:34,154 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-10 15:15:34,508 - INFO - [INFO] google_events: 0 eventos.
+2025-06-10 15:15:34,511 - INFO - [ERROR] No se pudo procesar fuente microsoft_events: No module named 'selenium'
+2025-06-10 15:15:34,917 - INFO - [INFO] finnovating_events: 0 eventos.
+2025-06-10 15:15:35,470 - INFO - [INFO] pycon_colombia: 0 eventos.
+2025-06-10 15:15:35,742 - INFO - [INFO] isaca: 0 eventos.
+2025-06-10 15:15:36,121 - INFO - [INFO] colombiatechweek: 0 eventos.
+2025-06-10 15:15:43,335 - INFO - [INFO] felaban: 0 eventos.
+2025-06-10 15:15:43,335 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-10 15:15:43,337 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-10 15:15:43,337 - INFO - [INFO] No hay eventos nuevos.
+2025-06-10 15:15:43,338 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-10 15:15:43,338 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-10 15:18:22,015 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-10 15:18:22,327 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-10 15:18:22,328 - INFO - [ERROR] No se pudo procesar fuente python_colombia: No module named 'sources.python_colombia'
+2025-06-10 15:18:22,679 - INFO - [INFO] colombiatechweek: 0 eventos.
+2025-06-10 15:18:22,680 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-10 15:18:22,682 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-10 15:18:22,683 - INFO - [INFO] No hay eventos nuevos.
+2025-06-10 15:18:22,683 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-10 15:18:22,684 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-10 16:31:33,079 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-10 16:31:33,729 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-10 16:31:33,730 - INFO - [ERROR] No se pudo procesar fuente python_colombia: No module named 'sources.python_colombia'
+2025-06-10 16:31:34,248 - INFO - [INFO] colombiatechweek: 0 eventos.
+2025-06-10 16:31:34,248 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-10 16:31:34,249 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-10 16:31:34,249 - INFO - [INFO] No hay eventos nuevos.
+2025-06-10 16:31:34,249 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-10 16:31:34,250 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-10 17:11:14,993 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-10 17:11:15,161 - INFO - ====== WebDriver manager ======
+2025-06-10 17:11:17,144 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:11:17,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:11:17,637 - INFO - There is no [win64] chromedriver "137.0.7151.70" for browser google-chrome "137.0.7151" in cache
+2025-06-10 17:11:17,637 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:11:18,273 - INFO - WebDriver version 137.0.7151.70 selected
+2025-06-10 17:11:18,276 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-10 17:11:18,276 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip
+2025-06-10 17:11:18,419 - INFO - Driver downloading response is 200
+2025-06-10 17:11:18,567 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:11:18,933 - INFO - Driver has been saved in cache [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.70]
+2025-06-10 17:11:33,498 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-10 17:11:33,500 - INFO - [ERROR] No se pudo procesar fuente python_colombia: No module named 'sources.python_colombia'
+2025-06-10 17:11:33,921 - INFO - [INFO] colombiatechweek: 0 eventos.
+2025-06-10 17:11:33,922 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-10 17:11:33,922 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-10 17:11:33,923 - INFO - [INFO] No hay eventos nuevos.
+2025-06-10 17:11:33,923 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-10 17:11:33,923 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-10 17:55:52,590 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-10 17:55:53,083 - INFO - ====== WebDriver manager ======
+2025-06-10 17:55:54,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:55:55,295 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:55:55,513 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-10 17:56:11,737 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-10 17:56:11,739 - INFO - [ERROR] No se pudo procesar fuente python_colombia: No module named 'sources.python_colombia'
+2025-06-10 17:56:11,740 - INFO - [ERROR] No se pudo procesar fuente colombiatechweek: No module named 'sources.colombiatechweek'
+2025-06-10 17:56:11,741 - INFO - [ERROR] No se pudo procesar fuente google_events: No module named 'sources.google_events'
+2025-06-10 17:56:11,806 - INFO - ====== WebDriver manager ======
+2025-06-10 17:56:13,274 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:56:13,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:56:13,699 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-10 17:56:25,529 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-10 17:56:25,835 - INFO - [ERROR] No se pudo procesar fuente linkedin_monitor.py: No module named 'sources.linkedin_monitor.py'; 'sources.linkedin_monitor' is not a package
+2025-06-10 17:56:25,835 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-10 17:56:25,836 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-10 17:56:25,836 - INFO - [INFO] No hay eventos nuevos.
+2025-06-10 17:56:25,836 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-10 17:56:25,836 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-10 17:57:26,799 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-10 17:57:27,016 - INFO - ====== WebDriver manager ======
+2025-06-10 17:57:28,407 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:57:28,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:57:29,167 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-10 17:57:42,557 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-10 17:57:42,558 - INFO - [ERROR] No se pudo procesar fuente google_events: No module named 'sources.google_events'
+2025-06-10 17:57:42,562 - INFO - ====== WebDriver manager ======
+2025-06-10 17:57:43,998 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:57:44,193 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-10 17:57:44,417 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-10 17:57:55,307 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-10 17:57:55,387 - INFO - [ERROR] No se pudo procesar fuente linkedin_monitor.py: No module named 'sources.linkedin_monitor.py'; 'sources.linkedin_monitor' is not a package
+2025-06-10 17:57:55,387 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-10 17:57:55,387 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-10 17:57:55,388 - INFO - [INFO] No hay eventos nuevos.
+2025-06-10 17:57:55,388 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-10 17:57:55,388 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-18 12:51:11,757 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-18 12:51:12,121 - INFO - ====== WebDriver manager ======
+2025-06-18 12:51:14,679 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:51:14,969 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:51:15,190 - INFO - There is no [win64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+2025-06-18 12:51:15,190 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:51:15,726 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-18 12:51:15,728 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-18 12:51:15,728 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-18 12:51:15,879 - INFO - Driver downloading response is 200
+2025-06-18 12:51:16,063 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:51:16,414 - INFO - Driver has been saved in cache [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+2025-06-18 12:51:30,356 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-18 12:51:30,356 - INFO - [ERROR] No se pudo procesar fuente google_events: No module named 'sources.google_events'
+2025-06-18 12:51:30,358 - INFO - ====== WebDriver manager ======
+2025-06-18 12:51:31,741 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:51:31,966 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:51:32,185 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:51:44,199 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-18 12:51:44,547 - INFO - [ERROR] No se pudo procesar fuente linkedin_monitor.py: No module named 'sources.linkedin_monitor.py'; 'sources.linkedin_monitor' is not a package
+2025-06-18 12:51:44,547 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-18 12:51:44,548 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-18 12:51:44,548 - INFO - [INFO] No hay eventos nuevos.
+2025-06-18 12:51:44,549 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-18 12:51:44,549 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-18 12:57:21,496 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-18 12:57:21,723 - INFO - ====== WebDriver manager ======
+2025-06-18 12:57:23,256 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:57:23,532 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:57:23,799 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:57:37,841 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-18 12:57:37,844 - INFO - ====== WebDriver manager ======
+2025-06-18 12:57:39,128 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:57:39,683 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:57:39,926 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:57:52,557 - INFO - [INFO] google_events: 0 eventos.
+2025-06-18 12:57:52,559 - INFO - ====== WebDriver manager ======
+2025-06-18 12:57:53,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:57:54,193 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:57:54,444 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:58:06,198 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-18 12:58:06,277 - INFO - [ERROR] No se pudo procesar fuente linkedin_monitor.py: No module named 'sources.linkedin_monitor.py'; 'sources.linkedin_monitor' is not a package
+2025-06-18 12:58:06,277 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-18 12:58:06,278 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-18 12:58:06,278 - INFO - [INFO] No hay eventos nuevos.
+2025-06-18 12:58:06,278 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-18 12:58:06,279 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-18 12:59:17,910 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-18 12:59:18,099 - INFO - ====== WebDriver manager ======
+2025-06-18 12:59:19,493 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:59:19,708 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:59:19,928 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:59:33,137 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-18 12:59:33,138 - INFO - ====== WebDriver manager ======
+2025-06-18 12:59:34,469 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:59:34,714 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:59:34,969 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:59:45,721 - INFO - [INFO] google_events: 0 eventos.
+2025-06-18 12:59:45,725 - INFO - ====== WebDriver manager ======
+2025-06-18 12:59:47,135 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:59:47,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 12:59:47,588 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 12:59:58,808 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-18 13:00:27,059 - INFO - [INFO] linkedin_monitor: 0 eventos.
+2025-06-18 13:00:27,059 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-18 13:00:27,059 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-18 13:00:27,060 - INFO - [INFO] No hay eventos nuevos.
+2025-06-18 13:00:27,060 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-18 13:00:27,060 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-18 13:02:01,567 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-18 13:02:01,770 - INFO - ====== WebDriver manager ======
+2025-06-18 13:02:03,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:03,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:03,637 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 13:02:16,775 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-18 13:02:16,779 - INFO - ====== WebDriver manager ======
+2025-06-18 13:02:18,012 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:18,262 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:18,494 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 13:02:29,381 - INFO - [INFO] google_events: 0 eventos.
+2025-06-18 13:02:29,385 - INFO - ====== WebDriver manager ======
+2025-06-18 13:02:30,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:30,995 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:02:31,222 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 13:02:43,020 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-18 13:03:02,527 - INFO - [INFO] linkedin_monitor: 0 eventos.
+2025-06-18 13:03:02,528 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-18 13:03:02,528 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-18 13:03:02,528 - INFO - [INFO] No hay eventos nuevos.
+2025-06-18 13:03:02,528 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-18 13:03:02,528 - INFO - [INFO] No hay eventos nuevos para notificar.
+2025-06-18 13:03:15,710 - INFO - === INICIO DE RECOLECCIÓN DE EVENTOS DINÁMICA ===
+2025-06-18 13:03:15,901 - INFO - ====== WebDriver manager ======
+2025-06-18 13:03:17,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:03:17,437 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:03:17,634 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 13:03:31,421 - INFO - [INFO] eventbrite: 0 eventos.
+2025-06-18 13:03:31,425 - INFO - ====== WebDriver manager ======
+2025-06-18 13:03:32,633 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:03:32,849 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:03:33,073 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 13:03:43,464 - INFO - [INFO] google_events: 0 eventos.
+2025-06-18 13:03:43,465 - INFO - ====== WebDriver manager ======
+2025-06-18 13:03:44,897 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:03:45,126 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-18 13:03:45,334 - INFO - Driver [C:\Users\Administrador\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-18 13:03:56,568 - INFO - [INFO] microsoft_events: 0 eventos.
+2025-06-18 13:04:21,716 - INFO - [INFO] linkedin_monitor: 0 eventos.
+2025-06-18 13:04:21,716 - INFO - === VERIFICANDO NUEVOS EVENTOS ===
+2025-06-18 13:04:21,717 - INFO - [WARN] El archivo eventos_guardados.json está vacío. Se inicializa.
+2025-06-18 13:04:21,717 - INFO - [INFO] No hay eventos nuevos.
+2025-06-18 13:04:21,717 - INFO - [INFO] Nuevos eventos agregados: 0
+2025-06-18 13:04:21,718 - INFO - [INFO] No hay eventos nuevos para notificar.
